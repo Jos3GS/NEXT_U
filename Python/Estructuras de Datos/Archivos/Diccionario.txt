@@ -1,0 +1,18 @@
+Altcoin:Termino empleado para referirse a las criptomonedas o fichas de blockchain alternativas a Bitcoin; como Litecoin, Etherium, Dash, Monero, Zcash, Feathercoin y PPcoin, entre otros.
+Bitcoin:(con B Mayuscula) Se Utiliza para describir el concepto de Bitcoin, la totalidad de la red blockchain que sustenta a la criptomoneda y el protocolo que se ejecuta sobre ella.
+bitcoin:(con b Minuscula) Se refiere a la unidad de la criptomoneda basada en la red blockchain homonima, pudiendo ser usada en singular y plirar (bitcoin y bitcoins). Se abrevia como BTC, y a veces como XBT, aunque esta ultima ha entrado en desuso progresivamente.
+Blockchain:Nombre que recibe actualmente la tecnologia Bitcoin y sus bifurcaciones, pero que se refiere especificamente a la secuencia de bloques que almacenan informacion y que han sido verificados por los usuarios de la red desde sus inicios.
+BTC:Abreviatura para referirse a las unidades de bitcoins.
+Cajero de Criptomonedas:Cajero automatico de criptomonedas. Es un dispositivo que permite canjear criptomonedas por dinero fiduciarlo en efectivo y viceversa.
+Clave Publica:Texto Alfanumerico de que se obtiene una direccion conocida por todos los usuarios. Al ser conocida, cualquiera puede enviar bitcoins a la dirección asociada, pero solo quien tenga la clave privada podra acceder a ellos y moverlos.
+Clave Privada:Texto Alfanumerico asociado matematicamente  una direccion y que debe ser conocido solo por su dueño, permitiendole asi realizar transacciones bitcoin.
+Confirmante:Entidad o persona que es parcialmente propietaria de una cartera de criptoactivos.
+Criptomoneda:Moneda basada exclusivamente en la criptografia. A diferencia de las monedas emitidas por gobiernos y bancos centrales, se genera con la resolucion de problemas matematicos basados en criptografia. su valor, no obstante, está sujeto a variacion de precios dependiendo de la oferta y demanda en los mercados.
+Ethereum:Plataforma descentralizada desprendida desde la red de Bitcoin y que permite la ejecucion de conratos inteligentes. Su criptomoneda (ether) es una de las mas populares y de mayor capitalizacion del mercado.
+Firma Digital:Proceso matematico que permite verificar la autenticidad del remitente de bitcoins.
+Identidad Digital:En blockchain, la identidad digital se forma firmando transacciones criptograficas verificadas con la misma clave publica.
+Liquidez:Es la capaciad de comprar y vender o intercambiar un activo de forma fluida y eficaz, sin dar tiempo a la perdida de su valor
+Mineria:Es el acto de resolver un bloque, validando todas las transacciones que contiene.
+Pool de mineria:Es la agrupacion de dos o mas mineros que juntan su poder de computo para elevar las posibilidades d resolver un bloque y obtener recompensa. en los pools de kineria, la recomensa se divide internamente en funcion de la cantidad de hashes aportados por cada uno de sus integrantes.
+Tarifa de Transaccion:Una pequeña cuota impuesta a algunas transacciones enviados a traves de la red Bitcoin. la tarifa de transaccion se otroga a la minera que hashes con exito el bloque que contiene la transaccion correspondiente.
+Tasa de hash:Es una medida que denota el numero de hashes que un minero puede realizar en un periodo de tiempo determinado (generalmente en un segundo).
